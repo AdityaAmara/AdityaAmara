@@ -19,9 +19,9 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AdityaAmara/AdityaAmara/main/code.gif" width="500" height="320" />
   
 **Here is summary of what am I doing write now !!**
-- 🔭 I’m currently working with [Trip Tales](http://www.roadtripexperience.in/)
-- 👨🏽‍💻 I’m creative and work on something cool :wink:;
-- 🌱 I’m currently learning to write API's in Java, PHP; 
+- 🔭 I’m currently working with [ION GROUP](https://iongroup.com/)
+- 👨🏽‍💻 I’m creative and always try to work on something cool :wink:;
+- 🌱 I’m currently working in the Integration Services at ION; 
 - 💬 Ask me about anything, I am ready to help;
 - 📫 How to reach me: [@amaraaditya](http://amaraaditya.herokuapp.com/)
 - 📝[Resume](http://amaraaditya.herokuapp.com/resume.pdf)
